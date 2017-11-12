@@ -10,8 +10,6 @@ git init
 code .
 ```
 
-Dont forget to rm 
-
 You'll get a plain project structure with a basic index.html
 empty files for css and js and a version of jquery and knockout.
 The rest is up to you.
