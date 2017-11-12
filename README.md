@@ -1,6 +1,12 @@
 # HTML Project Template
 
-This is a project about ...
+Use the template using on Mac/Linux:
+
+```git archive --remote=https://github.com/stho32/ProjectTemplate-HTML.git @ | tar -t```
+
+You'll get a plain project structure with a basic index.html
+empty files for css and js and a version of jquery and knockout.
+The rest is up to you.
 
 # Detailed requirements
 
