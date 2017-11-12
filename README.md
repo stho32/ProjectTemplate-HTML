@@ -2,7 +2,15 @@
 
 Use the template using on Mac/Linux:
 
-```git archive --remote=https://github.com/stho32/ProjectTemplate-HTML.git @ | tar -t```
+```
+git clone --depth 1 https://github.com/stho32/ProjectTemplate-HTML.git <your-project-dir>
+cd <your-project-dir>
+rm -rf .git/
+git init
+code .
+```
+
+Dont forget to rm 
 
 You'll get a plain project structure with a basic index.html
 empty files for css and js and a version of jquery and knockout.
